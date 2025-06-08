@@ -1,5 +1,7 @@
 # Modal Analysis of a Multi-Story Shear Building
 
+## 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## 📘 Description
 
 This Jupyter Notebook performs the **modal analysis** of a multi-story shear building for academic purposes. It defines the **stiffness**, **mass**, and **damping matrices**, computes the **natural frequencies**, **mode shapes**, and **effective modal masses**, and visualizes the **mode shapes** using Python.
