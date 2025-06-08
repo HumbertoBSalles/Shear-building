@@ -1,6 +1,8 @@
 # Modal Analysis of a Multi-Story Shear Building
 
+
 ## 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## 📘 Description
 
